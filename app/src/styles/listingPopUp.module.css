@@ -1,0 +1,29 @@
+.popUp{
+     width: 70%;
+     position :relative;
+     z-index: 1;
+     margin: -5rem;
+     color: black;
+     background-color: white;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 2rem;
+}
+.popup_data{
+     padding-right: 1rem;
+}
+.container{
+     width: 35%;
+     position: absolute;
+     top: 11rem;
+     left: 11rem;
+     color: white;
+}
+.container_heading{
+     width: 100%;
+     line-height: 4rem;
+     font-size: 4.5rem;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+     letter-spacing: .3rem;
+}
