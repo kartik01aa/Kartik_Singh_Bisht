@@ -8,6 +8,7 @@
      margin-left: auto;
      margin-right: auto;
      padding: 2rem;
+     height: 5rem;
 }
 .popup_data{
      padding-right: 1rem;
@@ -15,8 +16,8 @@
 .container{
      width: 35%;
      position: absolute;
-     top: 11rem;
-     left: 11rem;
+     top: 32%;
+     left: 12.5%;
      color: white;
 }
 .container_heading{

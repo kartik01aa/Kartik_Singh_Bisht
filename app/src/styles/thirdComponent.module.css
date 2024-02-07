@@ -1,0 +1,45 @@
+.container20{
+     background-color: #F5F5F5;
+     margin-top: -10rem;
+     padding-top: 10rem;  
+ }
+.container2{
+     width: 80%;
+     margin: auto;
+ }
+ .container2_allBtn{
+     background-color: white;
+     border-radius: 1rem;
+     display: flex;
+     width: 100%;
+     justify-content: space-around;
+ }
+ .container2_btn{
+     padding: 2rem;
+     background-color: white;
+ }
+ .img{
+     padding-left: .5rem;
+ }
+ .container22{
+     padding:4rem  2rem;
+     width: 80%;
+     margin: auto;
+     display: flex;
+     flex-wrap:wrap;
+     justify-content: space-around;
+ }
+ .container22_card{
+     background-color: white;
+     border-radius: 1rem;
+     margin: 1rem;
+     width: 25%;
+
+ }
+ .container22_img{
+     width: 100%;
+ }
+ .container22_title{
+     text-align: center;
+     font-size: 1.3rem;
+ }

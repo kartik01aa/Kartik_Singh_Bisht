@@ -1,0 +1,40 @@
+.container{
+     margin-top:8rem;
+     width: 87.5%;
+     display: flex;
+     background-color: white;
+ }
+ .main{
+     margin: 6rem 2rem;
+ }
+ .container_img{
+     width: 60%;
+ }
+ .container_heading{
+     margin-top: 1rem;
+     margin-bottom: 2rem;
+     font-size: 2.5rem;
+}
+.container_paras{
+     font-size: 1.2rem;
+     line-height: 1.5rem;
+ }
+ .container_btn{
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+ }
+ .lastCol{
+     display: flex;
+     margin-top: 2rem;
+     width: 50%;
+     justify-content: center;
+     align-items: center;
+     background-color: black;
+     padding: .7rem 0;
+     border-top-right-radius: 1rem;
+ }
+ .lastCol_span{
+     margin-right: .5rem;
+     color: white;
+ }
+
